@@ -1,0 +1,9 @@
+{
+    "name": "legion/project-uts_s2",
+    "description": "\"Project UTS\"",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
